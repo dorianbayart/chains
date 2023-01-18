@@ -3197,6 +3197,19 @@
   "faucets": [],
   "infoURL": "https://confluxnetwork.org"
 }, {
+  "name": "Proxy Network Testnet",
+  "chainId": 1031,
+  "shortName": "prx",
+  "networkId": 1031,
+  "nativeCurrency": {
+    "name": "PRX",
+    "symbol": "PRX",
+    "decimals": 18
+  },
+  "rpc": ["http://128.199.94.183:8041"],
+  "faucets": [],
+  "infoURL": "https://theproxy.network"
+}, {
   "name": "Bronos Testnet",
   "chainId": 1038,
   "shortName": "bronos-testnet",
@@ -3885,6 +3898,19 @@
   "rpc": ["https://tsfapi.europool.me"],
   "faucets": [],
   "infoURL": "https://teslafunds.io"
+}, {
+  "name": "Gitshock Cartenz Testnet",
+  "chainId": 1881,
+  "shortName": "gitshockchain",
+  "networkId": 1881,
+  "nativeCurrency": {
+    "name": "Gitshock Cartenz",
+    "symbol": "tGTFX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.cartenz.works"],
+  "faucets": [],
+  "infoURL": "https://gitshock.com"
 }, {
   "name": "BON Network",
   "chainId": 1898,
@@ -6849,6 +6875,19 @@
   "rpc": ["https://test103.thinkiumrpc.net/"],
   "faucets": ["https://www.thinkiumdev.net/faucet"],
   "infoURL": "https://thinkium.net/"
+}, {
+  "name": "Etica Mainnet",
+  "chainId": 61803,
+  "shortName": "Etica",
+  "networkId": 61803,
+  "nativeCurrency": {
+    "name": "EGAZ",
+    "symbol": "EGAZ",
+    "decimals": 18
+  },
+  "rpc": ["https://eticamainnet.eticascan.org", "https://eticamainnet.eticaprotocol.org"],
+  "faucets": ["http://faucet.etica-stats.org/"],
+  "infoURL": "https://eticaprotocol.org"
 }, {
   "name": "DoKEN Super Chain Mainnet",
   "chainId": 61916,
