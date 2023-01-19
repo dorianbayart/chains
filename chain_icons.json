@@ -871,6 +871,14 @@
     "format": "png"
   }]
 }, {
+  "name": "unique",
+  "icons": [{
+    "url": "ipfs://QmbJ7CGZ2GxWMp7s6jy71UGzRsMe4w3KANKXDAExYWdaFR",
+    "width": 48,
+    "height": 48,
+    "format": "svg"
+  }]
+}, {
   "name": "resincoin",
   "icons": [{
     "url": "ipfs://QmTBszPzBeWPhjozf4TxpL2ws1NkG9yJvisx9h6MFii1zb",
@@ -1039,6 +1047,14 @@
     "format": "png"
   }]
 }, {
+  "name": "opal",
+  "icons": [{
+    "url": "ipfs://QmYJDpmWyjDa3H6BxweFmQXk4fU8b1GU7M9EqYcaUNvXzc",
+    "width": 48,
+    "height": 48,
+    "format": "svg"
+  }]
+}, {
   "name": "cicchain",
   "icons": [{
     "url": "ipfs://QmNekc5gpyrQkeDQcmfJLBrP5fa6GMarB13iy6aHVdQJDU",
@@ -1167,6 +1183,14 @@
     "format": "png"
   }]
 }, {
+  "name": "sapphire",
+  "icons": [{
+    "url": "ipfs://Qmd1PGt4cDRjFbh4ihP5QKEd4XQVwN1MkebYKdF56V74pf",
+    "width": 48,
+    "height": 48,
+    "format": "svg"
+  }]
+}, {
   "name": "any",
   "icons": [{
     "url": "ipfs://QmaARJiAQUn4Z6wG8GLEry3kTeBB3k6RfHzSZU9SPhBgcG",
@@ -1212,6 +1236,14 @@
     "url": "ipfs://Qmc9N7V8CiLB4r7FEcG7GojqfiGGsRCZqcFWCahwMohbDW",
     "width": 267,
     "height": 300,
+    "format": "png"
+  }]
+}, {
+  "name": "credit",
+  "icons": [{
+    "url": "ipfs://bafkreifbso3gd4wu5wxl27xyurxctmuae2jyuy37guqtzx23nga6ba4ag4",
+    "width": 1000,
+    "height": 1628,
     "format": "png"
   }]
 }, {
@@ -1613,6 +1645,14 @@
     "width": 310,
     "height": 310,
     "format": "png"
+  }]
+}, {
+  "name": "quartz",
+  "icons": [{
+    "url": "ipfs://QmaGPdccULQEFcCGxzstnmE8THfac2kSiGwvWRAiaRq4dp",
+    "width": 48,
+    "height": 48,
+    "format": "svg"
   }]
 }, {
   "name": "bty",
