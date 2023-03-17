@@ -695,6 +695,14 @@
     "format": "png"
   }]
 }, {
+  "name": "scolcoin",
+  "icons": [{
+    "url": "ipfs://QmVES1eqDXhP8SdeCpM85wvjmhrQDXGRquQebDrSdvJqpt",
+    "width": 792,
+    "height": 822,
+    "format": "png"
+  }]
+}, {
   "name": "mythical",
   "icons": [{
     "url": "ipfs://bafkreihru6cccfblrjz5bv36znq2l3h67u6xj5ivtc4bj5l6gzofbgtnb4",
