@@ -3749,6 +3749,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "vcitychain",
+  "icons": [{
+    "url": "ipfs://bafkreiawfldsm6h56ug2md3hp6xeos3xoyqt6gnw4mepz2f6lzi6xcygli",
+    "width": 200,
+    "height": 200,
+    "format": "png"
+  }]
+}, {
   "name": "eLiberty",
   "icons": [{
     "url": "ipfs://Qmcr8US1DZcK3ooiMtE8tEQPgep12abXzxPw1jCkgZhji9",
@@ -7744,6 +7752,14 @@
     "url": "ipfs://QmVES1eqDXhP8SdeCpM85wvjmhrQDXGRquQebDrSdvJqpt",
     "width": 792,
     "height": 822,
+    "format": "png"
+  }]
+}, {
+  "name": "kii",
+  "icons": [{
+    "url": "ipfs://bafkreib5kb73tb5fdvikhxe7nlnf4mmlfcfpsslalaplqfihypcmudlal4",
+    "width": 524,
+    "height": 524,
     "format": "png"
   }]
 }, {
