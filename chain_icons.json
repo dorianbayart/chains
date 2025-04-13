@@ -3217,8 +3217,10 @@
 }, {
   "name": "wem",
   "icons": [{
-    "url": "ipfs://QmSuVbbBRAnquu3EsbsFgEMNgM8bTpiVKns2CCBVM6c2aJ",
-    "format": "svg"
+    "url": "ipfs://bafkreianwjcj56pf2cwlzl4jyuarqmxs6ewmfaz2aemxl74tdbg2fumps4",
+    "width": 512,
+    "height": 512,
+    "format": "png"
   }]
 }, {
   "name": "satoshivm",
@@ -4597,6 +4599,14 @@
     "format": "png"
   }]
 }, {
+  "name": "gunz",
+  "icons": [{
+    "url": "ipfs://bafkreid7wspejxmvsqkycru3lnfppgqre6zavkyw4vklnzrhoiycqsjzpa",
+    "width": 320,
+    "height": 320,
+    "format": "png"
+  }]
+}, {
   "name": "swisstronik",
   "icons": [{
     "url": "ipfs://bafybeihuintkoipxalwans23vhxajbwjnozpy34ww7ia7ds7nay3rpylzi",
@@ -5479,8 +5489,10 @@
 }, {
   "name": "wemscan",
   "icons": [{
-    "url": "ipfs://QmSuVbbBRAnquu3EsbsFgEMNgM8bTpiVKns2CCBVM6c2aJ",
-    "format": "svg"
+    "url": "ipfs://bafkreianwjcj56pf2cwlzl4jyuarqmxs6ewmfaz2aemxl74tdbg2fumps4",
+    "width": 512,
+    "height": 512,
+    "format": "png"
   }]
 }, {
   "name": "songbird",
@@ -7224,6 +7236,14 @@
     "url": "ipfs://QmQDNdhPvCrrijEKC3G9Px5if2CHgdxq7Q2Pg66cy9xwbF",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "onino",
+  "icons": [{
+    "url": "ipfs://QmW46cmj2fRUbfy3Fz9kyhm33BpXnNXZ4KW3vmK1z4Mg19",
+    "width": 256,
+    "height": 256,
     "format": "png"
   }]
 }, {

@@ -7851,6 +7851,19 @@
   "faucets": [],
   "infoURL": "https://perennial.finance"
 }, {
+  "name": "ONINO Mainnet",
+  "chainId": 1425,
+  "shortName": "onino",
+  "networkId": 1425,
+  "nativeCurrency": {
+    "name": "ONI",
+    "symbol": "ONI",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.onino.io"],
+  "faucets": ["https://faucet.onino.io"],
+  "infoURL": "https://onino.io"
+}, {
   "name": "Rikeza Network Mainnet",
   "chainId": 1433,
   "shortName": "RIK",
@@ -19993,6 +20006,19 @@
   "faucets": [],
   "infoURL": "https://docs.boba.network/for-developers/network-avalanche"
 }, {
+  "name": "GUNZ",
+  "chainId": 43419,
+  "shortName": "gunz-mainnet",
+  "networkId": 43419,
+  "nativeCurrency": {
+    "name": "GUN",
+    "symbol": "GUN",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.gunzchain.io/ext/bc/2M47TxWHGnhNtq6pM5zPXdATBtuqubxn5EPFgFmEawCQr9WFML/rpc"],
+  "faucets": [],
+  "infoURL": "https://gunbygunz.com"
+}, {
   "name": "Formicarium",
   "chainId": 43521,
   "shortName": "form",
@@ -29677,6 +29703,19 @@
   "rpc": ["https://kermit.accumulatenetwork.io/eth"],
   "faucets": ["https://kermit.explorer.accumulatenetwork.io/faucet"],
   "infoURL": "https://accumulate.org"
+}, {
+  "name": "Tron Shasta",
+  "chainId": 2494104990,
+  "shortName": "tron-shasta",
+  "networkId": 2494104990,
+  "nativeCurrency": {
+    "name": "Tron",
+    "symbol": "TRX",
+    "decimals": 6
+  },
+  "rpc": ["https://api.shasta.trongrid.io/jsonrpc"],
+  "faucets": [],
+  "infoURL": "https://tron.network"
 }, {
   "name": "Ancient8 Testnet (deprecated)",
   "chainId": 2863311531,
