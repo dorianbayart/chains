@@ -10482,8 +10482,8 @@
   "shortName": "fraxtal-testnet",
   "networkId": 2522,
   "nativeCurrency": {
-    "name": "Frax Ether",
-    "symbol": "frxETH",
+    "name": "Frax",
+    "symbol": "FRAX",
     "decimals": 18
   },
   "rpc": ["https://rpc.testnet.frax.com", "https://fraxtal-holesky-rpc.publicnode.com", "wss://fraxtal-holesky-rpc.publicnode.com"],
@@ -14728,6 +14728,19 @@
   "faucets": ["https://faucet-sphinx.shardeum.org/"],
   "infoURL": "https://docs.shardeum.org/"
 }, {
+  "name": "Shardeum Testnet",
+  "chainId": 8083,
+  "shortName": "ShardeumTestnet",
+  "networkId": 8083,
+  "nativeCurrency": {
+    "name": "Shardeum Test SHM",
+    "symbol": "SHM",
+    "decimals": 18
+  },
+  "rpc": ["https://api-testnet.shardeum.org/"],
+  "faucets": [],
+  "infoURL": "https://docs.shardeum.org/"
+}, {
   "name": "Bitcoin Chain",
   "chainId": 8086,
   "shortName": "Bitcoin",
@@ -14792,6 +14805,19 @@
   "rpc": [],
   "faucets": [],
   "infoURL": "https://zenchain.io"
+}, {
+  "name": "Shardeum",
+  "chainId": 8118,
+  "shortName": "Shardeum",
+  "networkId": 8118,
+  "nativeCurrency": {
+    "name": "Shardeum",
+    "symbol": "SHM",
+    "decimals": 18
+  },
+  "rpc": ["https://api.shardeum.org/"],
+  "faucets": [],
+  "infoURL": "https://docs.shardeum.org/"
 }, {
   "name": "Qitmeer Network Testnet",
   "chainId": 8131,
@@ -27750,7 +27776,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://rpc.sepolia.org", "https://rpc2.sepolia.org", "https://rpc-sepolia.rockx.com", "https://rpc.sepolia.ethpandaops.io", "https://sepolia.infura.io/v3/${INFURA_API_KEY}", "wss://sepolia.infura.io/v3/${INFURA_API_KEY}", "https://sepolia.gateway.tenderly.co", "wss://sepolia.gateway.tenderly.co", "https://ethereum-sepolia-rpc.publicnode.com", "wss://ethereum-sepolia-rpc.publicnode.com", "https://sepolia.drpc.org", "wss://sepolia.drpc.org", "https://rpc-sepolia.rockx.com", "https://eth-sepolia.g.alchemy.com/v2/WddzdzI2o9S3COdT73d5w6AIogbKq4X-"],
+  "rpc": ["https://rpc.sepolia.org", "https://rpc2.sepolia.org", "https://rpc.sepolia.ethpandaops.io", "https://sepolia.infura.io/v3/${INFURA_API_KEY}", "wss://sepolia.infura.io/v3/${INFURA_API_KEY}", "https://sepolia.gateway.tenderly.co", "wss://sepolia.gateway.tenderly.co", "https://ethereum-sepolia-rpc.publicnode.com", "wss://ethereum-sepolia-rpc.publicnode.com", "https://sepolia.drpc.org", "wss://sepolia.drpc.org", "https://eth-sepolia.g.alchemy.com/v2/WddzdzI2o9S3COdT73d5w6AIogbKq4X-"],
   "faucets": ["http://fauceth.komputing.org?chain=11155111&address=${ADDRESS}"],
   "infoURL": "https://sepolia.otterscan.io"
 }, {
