@@ -407,6 +407,14 @@
     "format": "png"
   }]
 }, {
+  "name": "ogpu",
+  "icons": [{
+    "url": "ipfs://bafkreiehdja4bvfvcagywn32zj6rvc5eicnwsdtvrsgwil52y4palgtnrq",
+    "width": 560,
+    "height": 560,
+    "format": "png"
+  }]
+}, {
   "name": "k-laos",
   "icons": [{
     "url": "ipfs://QmW26eoxJeyUfikZ4DUT1Gfk78sBkvydEo8QzHa1BXjUUL",
@@ -1093,6 +1101,14 @@
     "width": 288,
     "height": 288,
     "format": "png"
+  }]
+}, {
+  "name": "altb",
+  "icons": [{
+    "url": "ipfs://bafkreicy275qnnvxzjocl33blzw26orv3rkygqbb4sqwtx5bc2m3hazmre",
+    "width": 640,
+    "height": 640,
+    "format": "jpg"
   }]
 }, {
   "name": "eraswap",
