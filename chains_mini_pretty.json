@@ -2955,13 +2955,13 @@
   "shortName": "blast",
   "networkId": 238,
   "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
+    "name": "One World Chain",
+    "symbol": "OWCT",
     "decimals": 18
   },
-  "rpc": ["https://rpc.blastblockchain.com"],
+  "rpc": ["https://zkevmrpc.blastchain.org"],
   "faucets": [],
-  "infoURL": "https://docs.blastblockchain.com"
+  "infoURL": "https://docs.blastchain.org"
 }, {
   "name": "TAC Mainnet",
   "chainId": 239,
@@ -16492,8 +16492,8 @@
     "symbol": "TEA",
     "decimals": 18
   },
-  "rpc": [],
-  "faucets": [],
+  "rpc": ["https://tea-sepolia.g.alchemy.com/public"],
+  "faucets": ["https://faucet-sepolia.tea.xyz"],
   "infoURL": "https://tea.xyz"
 }, {
   "name": "GLScan",
