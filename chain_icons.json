@@ -2479,6 +2479,14 @@
     "format": "png"
   }]
 }, {
+  "name": "r5",
+  "icons": [{
+    "url": "ipfs://bafkreihrnrmjndul22scpktxzfvm6lyuxdepjtbfrn7ce4znl2blrqw6te",
+    "width": 1024,
+    "height": 1024,
+    "format": "png"
+  }]
+}, {
   "name": "peaq",
   "icons": [{
     "url": "ipfs://QmQ7Jue8v2YXyhmDTkSbzCJxzZDa2v4GZZKViESdyswzrj",

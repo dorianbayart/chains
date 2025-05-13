@@ -3743,6 +3743,19 @@
   "faucets": [],
   "infoURL": "https://shiden.astar.network/"
 }, {
+  "name": "R5 Network",
+  "chainId": 337,
+  "shortName": "r5",
+  "networkId": 337,
+  "nativeCurrency": {
+    "name": "R5",
+    "symbol": "R5",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.r5.network"],
+  "faucets": [],
+  "infoURL": "https://r5.network"
+}, {
   "name": "Cronos Testnet",
   "chainId": 338,
   "shortName": "tcro",
@@ -19538,6 +19551,19 @@
   "faucets": ["https://faucet.zq2-devnet.zilliqa.com"],
   "infoURL": "https://www.zilliqa.com/"
 }, {
+  "name": "R5 Network Testnet",
+  "chainId": 33710,
+  "shortName": "tr5",
+  "networkId": 33710,
+  "nativeCurrency": {
+    "name": "Test R5",
+    "symbol": "TR5",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet.r5.network"],
+  "faucets": [],
+  "infoURL": "https://r5.network"
+}, {
   "name": "Funki",
   "chainId": 33979,
   "shortName": "funki",
@@ -25856,7 +25882,7 @@
   "faucets": ["https:/testchainv1.hetuscan.com"],
   "infoURL": "https://hetu.org"
 }, {
-  "name": "Hoodi testnet",
+  "name": "Ethereum Hoodi",
   "chainId": 560048,
   "shortName": "hoe",
   "networkId": 560048,
