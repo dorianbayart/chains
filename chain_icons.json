@@ -2079,6 +2079,14 @@
     "format": "png"
   }]
 }, {
+  "name": "rogue",
+  "icons": [{
+    "url": "ipfs://Qmay8Z3yhJR4st6iAVmqTdM6nFc9zYSPq4tucDaiPheAjE",
+    "width": 973,
+    "height": 974,
+    "format": "png"
+  }]
+}, {
   "name": "5ireChain",
   "icons": [{
     "url": "ipfs://QmaZDNDFLWESH4i3XqwEWfWBb1HPnQSNbDAr74nr2x8QAk",
