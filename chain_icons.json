@@ -3215,6 +3215,14 @@
     "format": "png"
   }]
 }, {
+  "name": "eteria",
+  "icons": [{
+    "url": "ipfs://bafybeibexfskndvhn5xtrcmpjoifp2ufnzgwiwbfrjcxat55alergskkve",
+    "width": 122,
+    "height": 133,
+    "format": "svg"
+  }]
+}, {
   "name": "omlira",
   "icons": [{
     "url": "ipfs://QmQtEHaejiDbmiCvbBYw9jNQv3DLK5XHCQwLRfnLNpdN5j",
@@ -4733,14 +4741,6 @@
     "width": 3000,
     "height": 3000,
     "format": "png"
-  }]
-}, {
-  "name": "eternal",
-  "icons": [{
-    "url": "ipfs://bafybeibexfskndvhn5xtrcmpjoifp2ufnzgwiwbfrjcxat55alergskkve",
-    "width": 122,
-    "height": 133,
-    "format": "svg"
   }]
 }, {
   "name": "lisk",
