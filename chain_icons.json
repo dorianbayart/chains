@@ -6655,6 +6655,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "edgen",
+  "icons": [{
+    "url": "ipfs://QmVwYkRWgXgoYDPgBFntxWYFquKusuMMVc8TG5hrEVnXLV",
+    "width": 502,
+    "height": 442,
+    "format": "jpg"
+  }]
+}, {
   "name": "cascadia",
   "icons": [{
     "url": "ipfs://QmQtcwxNiJ9D1QDz4k6jZ7qacLcqMk6CeW85TTBWBvNp3z",
