@@ -11166,6 +11166,32 @@
   "faucets": ["https://faucet.arabianchain.org/"],
   "infoURL": "https://arabianchain.org"
 }, {
+  "name": "Realio Testnet",
+  "chainId": 3300,
+  "shortName": "realiotestnet",
+  "networkId": 3300,
+  "nativeCurrency": {
+    "name": "Rio",
+    "symbol": "RIO",
+    "decimals": 18
+  },
+  "rpc": ["https://json-rpc.realiostage.network", "https://realio-testnet.json-rpc.decentrio.ventures"],
+  "faucets": [],
+  "infoURL": "https://www.realio.network"
+}, {
+  "name": "Realio",
+  "chainId": 3301,
+  "shortName": "realio",
+  "networkId": 3301,
+  "nativeCurrency": {
+    "name": "Rio",
+    "symbol": "RIO",
+    "decimals": 18
+  },
+  "rpc": ["https://json-rpc.realio.network", "https://realio.json-rpc.decentrio.ventures"],
+  "faucets": [],
+  "infoURL": "https://www.realio.network"
+}, {
   "name": "Debounce Subnet Testnet",
   "chainId": 3306,
   "shortName": "debounce-devnet",
@@ -15988,6 +16014,19 @@
   "rpc": ["https://testnet.bnb.boba.network", "wss://wss.testnet.bnb.boba.network", "https://replica.testnet.bnb.boba.network", "wss://replica-wss.testnet.bnb.boba.network", "https://boba-bnb-testnet.gateway.tenderly.co", "wss://boba-bnb-testnet.gateway.tenderly.co"],
   "faucets": [],
   "infoURL": "https://boba.network"
+}, {
+  "name": "Plasma Testnet",
+  "chainId": 9746,
+  "shortName": "plasma",
+  "networkId": 9746,
+  "nativeCurrency": {
+    "name": "Testnet Plasma",
+    "symbol": "tXPL",
+    "decimals": 18
+  },
+  "rpc": ["https://ultra-quick-paper.plasma-testnet.quiknode.pro"],
+  "faucets": [],
+  "infoURL": "https://plasma.to"
 }, {
   "name": "MainnetZ Testnet",
   "chainId": 9768,
@@ -24919,6 +24958,19 @@
   "rpc": ["https://mainnet.block.caduceus.foundation", "wss://mainnet.block.caduceus.foundation"],
   "faucets": [],
   "infoURL": "https://caduceus.foundation/"
+}, {
+  "name": "Althea L1 Mainnet",
+  "chainId": 258432,
+  "shortName": "ALTHEA",
+  "networkId": 258432,
+  "nativeCurrency": {
+    "name": "Althea",
+    "symbol": "ALTHEA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.althea.zone"],
+  "faucets": [],
+  "infoURL": "https://althea.net"
 }, {
   "name": "Eclat Testnet",
   "chainId": 262371,

@@ -2823,6 +2823,14 @@
     "format": "png"
   }]
 }, {
+  "name": "realio",
+  "icons": [{
+    "url": "ipfs://QmZsXYnR5C25v99xZs7Zzk5UUwiCidpGwSzejb21M66fuT",
+    "width": 474,
+    "height": 474,
+    "format": "png"
+  }]
+}, {
   "name": "wyzth_icon",
   "icons": [{
     "url": "ipfs://QmeDfLgA5heAAXsU8kf5J23Y8up4uHN27uRBEAJFPMJEu7",
@@ -3573,6 +3581,14 @@
     "width": 128,
     "height": 128,
     "format": "png"
+  }]
+}, {
+  "name": "althea",
+  "icons": [{
+    "url": "ipfs://QmaNKnYTZRGnhzFyRYeBKwXbPQz6uDPK7PPuPGCMXSNFYW",
+    "width": 1140,
+    "height": 1140,
+    "format": "svg"
   }]
 }, {
   "name": "humans",
@@ -7583,6 +7599,14 @@
     "format": "png"
   }]
 }, {
+  "name": "plasma",
+  "icons": [{
+    "url": "ipfs://QmV34vcJ1sDpUyDJkskLv77H99Nxn8qRf6TvscJcywYwG6",
+    "width": 1024,
+    "height": 1024,
+    "format": "svg"
+  }]
+}, {
   "name": "lila",
   "icons": [{
     "url": "ipfs://bafkreiayuuzfpcgwjll4us4hquvpqa5gwq3lbiedv4qftmlwcxhcyjzzpq",
@@ -7596,6 +7620,14 @@
     "url": "ipfs://QmPmZ6vgtdMG7jttVZQUobF96Sva1noi5Fsi28V1Eck6eC",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "realiotestnet",
+  "icons": [{
+    "url": "ipfs://QmZsXYnR5C25v99xZs7Zzk5UUwiCidpGwSzejb21M66fuT",
+    "width": 474,
+    "height": 474,
     "format": "png"
   }]
 }, {
