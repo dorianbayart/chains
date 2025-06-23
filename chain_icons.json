@@ -1159,6 +1159,14 @@
     "format": "png"
   }]
 }, {
+  "name": "katana",
+  "icons": [{
+    "url": "ipfs://QmVAQiumxDxuEW7HdeRW8NiRKVpXVnQumwSW44Uq6py1k7",
+    "width": 750,
+    "height": 750,
+    "format": "png"
+  }]
+}, {
   "name": "mantle",
   "icons": [{
     "url": "ipfs://QmYddHh5zdceSsBU7uGfQvEHg6UUtAFbzQBBaePS4whx7o",
