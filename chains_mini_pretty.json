@@ -11519,7 +11519,7 @@
 }, {
   "name": "Botanix Testnet",
   "chainId": 3636,
-  "shortName": "BTNX",
+  "shortName": "BTNXt",
   "networkId": 3636,
   "nativeCurrency": {
     "name": "Botanix",
@@ -11532,16 +11532,16 @@
 }, {
   "name": "Botanix Mainnet",
   "chainId": 3637,
-  "shortName": "BTCm",
+  "shortName": "BTNX",
   "networkId": 3637,
   "nativeCurrency": {
     "name": "Botanix",
     "symbol": "BTC",
     "decimals": 18
   },
-  "rpc": ["https://rpc.btxtestchain.com"],
-  "faucets": ["https://faucet.btxtestchain.com"],
-  "infoURL": "https://btxtestchain.com"
+  "rpc": ["https://rpc.botanixlabs.com"],
+  "faucets": [],
+  "infoURL": "https://botanixlabs.com"
 }, {
   "name": "iChain Network",
   "chainId": 3639,
@@ -20721,6 +20721,19 @@
   "faucets": [],
   "infoURL": "https://www.reddio.com"
 }, {
+  "name": "Reddio",
+  "chainId": 50342,
+  "shortName": "reddio",
+  "networkId": 50342,
+  "nativeCurrency": {
+    "name": "Reddio",
+    "symbol": "RDO",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.reddio.com/rpc"],
+  "faucets": [],
+  "infoURL": "https://www.reddio.com"
+}, {
   "name": "STB Testnet",
   "chainId": 50505,
   "shortName": "stb-testnet",
@@ -23437,6 +23450,19 @@
   "rpc": [],
   "faucets": [],
   "infoURL": "https://docs.gnosischain.com"
+}, {
+  "name": "DeInfra Mainnet",
+  "chainId": 100501,
+  "shortName": "deinfra-mainnet",
+  "networkId": 100501,
+  "nativeCurrency": {
+    "name": "SK",
+    "symbol": "SK",
+    "decimals": 18
+  },
+  "rpc": ["https://c100501n3.deinfra.net:443/jsonrpc"],
+  "faucets": [],
+  "infoURL": "https://deinfra.net"
 }, {
   "name": "Socotra JUNE-Chain",
   "chainId": 101003,
@@ -29430,6 +29456,19 @@
   "rpc": ["https://sepolia.rpc.zora.energy"],
   "faucets": [],
   "infoURL": "https://zora.energy"
+}, {
+  "name": "DeInfra Devnet3",
+  "chainId": 1000000003,
+  "shortName": "deinfra-dev3",
+  "networkId": 1000000003,
+  "nativeCurrency": {
+    "name": "dev3SK",
+    "symbol": "dSK",
+    "decimals": 18
+  },
+  "rpc": ["https://c3n1.thepower.io:1446/jsonrpc"],
+  "faucets": ["https://faucet.thepower.io/"],
+  "infoURL": "https://deinfra.net"
 }, {
   "name": "SKALE Titan Hub Testnet",
   "chainId": 1020352220,

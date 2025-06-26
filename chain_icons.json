@@ -3481,9 +3481,9 @@
 }, {
   "name": "botanix",
   "icons": [{
-    "url": "ipfs://QmVE5s2pXiqdMnAcxhAmWkZYhpFB5CysypeLyPKzT4rGYe",
-    "width": 512,
-    "height": 512,
+    "url": "ipfs://bafkreiay6fhksszxziv25iqncumkwewu7kvoiakdozvnhocolkmlhh4ffe",
+    "width": 256,
+    "height": 256,
     "format": "png"
   }]
 }, {
@@ -3708,6 +3708,14 @@
     "url": "ipfs://QmfFK6B4MFLrpSS46aLf7hjpt28poHFeTGEKEuH248Tbyj",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "deinfra",
+  "icons": [{
+    "url": "ipfs://bafybeic234jzphpt7pg2jjosi3zohllbjhz6e5gc2snda4uzrmv6cwfbvi",
+    "width": 411,
+    "height": 425,
     "format": "png"
   }]
 }, {
