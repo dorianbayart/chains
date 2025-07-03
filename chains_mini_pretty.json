@@ -1815,7 +1815,7 @@
     "symbol": "ERA",
     "decimals": 18
   },
-  "rpc": ["https://mainnet.eternalcoin.io/v1", "ws://mainnet.eternalcoin.io/v1/ws"],
+  "rpc": ["https://mainnet.eteria.io/v1"],
   "faucets": [],
   "infoURL": "https://eteria.io"
 }, {
@@ -23204,6 +23204,19 @@
   "faucets": [],
   "infoURL": "https://ebi.xyz"
 }, {
+  "name": "Pay1 Network",
+  "chainId": 98964,
+  "shortName": "pay1",
+  "networkId": 98964,
+  "nativeCurrency": {
+    "name": "Pay1",
+    "symbol": "Pay1",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.pay1coin.com", "https://rpc0.pay1coin.com", "https://rpc1.pay1coin.com", "https://rpc2.pay1coin.com", "wss://ws.pay1coin.com", "wss://ws0.pay1coin.com", "wss://ws1.pay1coin.com", "wss://ws2.pay1coin.com"],
+  "faucets": [],
+  "infoURL": "https://pay1coin.com"
+}, {
   "name": "Superposition Testnet",
   "chainId": 98985,
   "shortName": "superposition-testnet",
@@ -23463,6 +23476,19 @@
   "rpc": ["https://c100501n3.deinfra.net:443/jsonrpc"],
   "faucets": [],
   "infoURL": "https://deinfra.net"
+}, {
+  "name": "Monsoon ",
+  "chainId": 100610,
+  "shortName": "monsoon",
+  "networkId": 100610,
+  "nativeCurrency": {
+    "name": "RDP",
+    "symbol": "RDP",
+    "decimals": 18
+  },
+  "rpc": ["https://monsoon.rainfall.one"],
+  "faucets": [],
+  "infoURL": ""
 }, {
   "name": "Socotra JUNE-Chain",
   "chainId": 101003,
@@ -26333,7 +26359,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://rpc.katanarpc.com", "https://rpc.katana.network"],
+  "rpc": ["https://rpc.katana.network"],
   "faucets": [],
   "infoURL": "https://katana.network"
 }, {
@@ -29466,7 +29492,7 @@
     "symbol": "dSK",
     "decimals": 18
   },
-  "rpc": ["https://c3n1.thepower.io:1446/jsonrpc"],
+  "rpc": ["https://c3n1.thepower.io/jsonrpc"],
   "faucets": ["https://faucet.thepower.io/"],
   "infoURL": "https://deinfra.net"
 }, {
@@ -29778,7 +29804,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://public.sepolia.rpc.status.network", "wss://status-sepolia-rpc.eu-north-2.gateway.fm/ws"],
+  "rpc": ["https://public.sepolia.rpc.status.network"],
   "faucets": ["https://faucet.status.network/"],
   "infoURL": "https://status.network"
 }, {
