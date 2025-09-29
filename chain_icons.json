@@ -1735,6 +1735,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "giwaTestnet",
+  "icons": [{
+    "url": "ipfs://bafkreie3xhbmcwv5qqopq7ak5n5wmqncy6ewnxgi772vytmssmqrubngbm",
+    "width": 128,
+    "height": 128,
+    "format": "svg"
+  }]
+}, {
   "name": "reactive",
   "icons": [{
     "url": "ipfs://bafkreih2sitkbspgnboiwga7k4zwz22h4u3qqpswxdr3miqtdwuovw2cte",
@@ -6047,6 +6055,14 @@
     "format": "png"
   }]
 }, {
+  "name": "injective",
+  "icons": [{
+    "url": "ipfs://bafybeiee2qhggsx77ssjqhz5m4lnfpvtzsqlygrgtfxdpefxwrrhg52mr4",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "brcchain",
   "icons": [{
     "url": "ipfs://QmX8qGX7xoZqYUpHxA85uZwQX2fgbTHvmddE1NfseDyBED",
@@ -7535,6 +7551,14 @@
     "format": "png"
   }]
 }, {
+  "name": "silentdata",
+  "icons": [{
+    "url": "ipfs://QmYcpfy4jVw2VKa63jzjYHEXLr3ytGjYKgTNNmoC7ejxyi",
+    "width": 1200,
+    "height": 1200,
+    "format": "png"
+  }]
+}, {
   "name": "sidrachain",
   "icons": [{
     "url": "ipfs://QmfVnJSmiB1Ss3Sfhgc9JsZAbQ2RAofsgzYB1VqUNKNgLH",
@@ -8613,6 +8637,14 @@
     "width": 800,
     "height": 800,
     "format": "svg"
+  }]
+}, {
+  "name": "silentdata-testnet",
+  "icons": [{
+    "url": "ipfs://QmVmh384UGF5ecanRufkxNXdDb5ps1HKfJnAYjUjR2A8QB",
+    "width": 1200,
+    "height": 1200,
+    "format": "png"
   }]
 }, {
   "name": "layerEdge",
