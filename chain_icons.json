@@ -1,4 +1,12 @@
 [{
+  "name": "ktn",
+  "icons": [{
+    "url": "ipfs://bafybeiezbj7itmbrkmbl6jr7crhodvfm3xmhclgb2nibdc3wqnzvkw3tvq",
+    "width": 1181,
+    "height": 1181,
+    "format": "png"
+  }]
+}, {
   "name": "bittensor",
   "icons": [{
     "url": "ipfs://QmcwymedPKMBVUptXLeuco2kV7LEhyd3bQ6x3aAh4VAmNJ",
@@ -1807,6 +1815,14 @@
     "format": "png"
   }]
 }, {
+  "name": "lxp",
+  "icons": [{
+    "url": "ipfs://QmZRg6LmyU4jJie3VPd7xacBf6qwkbsnHDgCgRkr7iwgKP",
+    "width": 1450,
+    "height": 1450,
+    "format": "png"
+  }]
+}, {
   "name": "lyra",
   "icons": [{
     "url": "ipfs://bafkreifrvwcwcgs2luampufdbdgohuxue5rep3u4p4owmwskob7hzpcfdq",
@@ -2485,6 +2501,14 @@
     "width": 280,
     "height": 280,
     "format": "svg"
+  }]
+}, {
+  "name": "hypercluster",
+  "icons": [{
+    "url": "ipfs://bafkreigyg6sbkcu6aql4pbfu3fjxhkvxywnitnojyl6jabq2vqekzqcr6a",
+    "width": 512,
+    "height": 512,
+    "format": "png"
   }]
 }, {
   "name": "cube",
@@ -3279,6 +3303,14 @@
     "format": "png"
   }]
 }, {
+  "name": "ktnscan",
+  "icons": [{
+    "url": "ipfs://bafybeicqiiebsfryhqkfwnda6b7e76khpiviivzjbixnobndxcrb45v4mq",
+    "width": 1440,
+    "height": 1440,
+    "format": "png"
+  }]
+}, {
   "name": "deinfra",
   "icons": [{
     "url": "ipfs://bafybeic234jzphpt7pg2jjosi3zohllbjhz6e5gc2snda4uzrmv6cwfbvi",
@@ -3485,6 +3517,14 @@
     "width": 200,
     "height": 200,
     "format": "png"
+  }]
+}, {
+  "name": "krown",
+  "icons": [{
+    "url": "ipfs://bafkreibjmhund2og7qnbgiongrlswryqg6znxnwedczyaefu62rzwbvwji",
+    "width": 400,
+    "height": 400,
+    "format": "jpg"
   }]
 }, {
   "name": "btcprotocol",
@@ -3980,6 +4020,14 @@
     "url": "ipfs://Qmag2hr5DQghRzKPN3oUFBkjWzqd5CndQzZeb5LfoiMCXf",
     "width": 160,
     "height": 160,
+    "format": "png"
+  }]
+}, {
+  "name": "lxpscan",
+  "icons": [{
+    "url": "ipfs://QmZRg6LmyU4jJie3VPd7xacBf6qwkbsnHDgCgRkr7iwgKP",
+    "width": 1450,
+    "height": 1450,
     "format": "png"
   }]
 }, {

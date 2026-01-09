@@ -3743,18 +3743,18 @@
   "faucets": ["https://faucet.omaxray.com/"],
   "infoURL": "https://www.omaxcoin.com/"
 }, {
-  "name": "Web3Q Mainnet",
+  "name": "EthStorage Mainnet",
   "chainId": 333,
-  "shortName": "w3q",
+  "shortName": "es-m",
   "networkId": 333,
   "nativeCurrency": {
-    "name": "Web3Q",
-    "symbol": "W3Q",
+    "name": "Ether",
+    "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://mainnet.web3q.io:8545"],
+  "rpc": ["https://rpc.mainnet.ethstorage.io:9540"],
   "faucets": [],
-  "infoURL": "https://web3q.io/home.w3q/"
+  "infoURL": "https://ethstorage.io/"
 }, {
   "name": "DFK Chain Test",
   "chainId": 335,
@@ -6993,6 +6993,19 @@
   "faucets": ["https://faucet.dogcoin.network"],
   "infoURL": "https://dogcoin.network"
 }, {
+  "name": "LuxePorts",
+  "chainId": 1122,
+  "shortName": "lxp",
+  "networkId": 1122,
+  "nativeCurrency": {
+    "name": "LuxePorts",
+    "symbol": "LXP",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.luxeports.com", "https://erpc.luxeports.com", "wss://rpc.luxeports.com/ws", "wss://erpc.luxeports.com/ws"],
+  "faucets": [],
+  "infoURL": "luxeports.com"
+}, {
   "name": "B2 Testnet",
   "chainId": 1123,
   "shortName": "B2-testnet",
@@ -8592,6 +8605,19 @@
   "faucets": ["https://faucet.blockchain.or.th"],
   "infoURL": "https://blockchain.or.th"
 }, {
+  "name": "ACiD",
+  "chainId": 1714,
+  "shortName": "acid",
+  "networkId": 1714,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://github.com/NoBanks/ACiD"
+}, {
   "name": "Doric Network",
   "chainId": 1717,
   "shortName": "DRC",
@@ -9319,6 +9345,19 @@
   "rpc": ["https://rpc.onuschain.io", "wss://ws.onuschain.io"],
   "faucets": [],
   "infoURL": "https://onuschain.io"
+}, {
+  "name": "Krown Mainnet",
+  "chainId": 1983,
+  "shortName": "krown",
+  "networkId": 1983,
+  "nativeCurrency": {
+    "name": "KROWN",
+    "symbol": "KROWN",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.krown.network", "https://mainnet1.krown.network"],
+  "faucets": [],
+  "infoURL": "https://krown.network"
 }, {
   "name": "Eurus Testnet",
   "chainId": 1984,
@@ -11318,7 +11357,7 @@
     "symbol": "VTCN",
     "decimals": 18
   },
-  "rpc": ["https://mainapi.bchscan.io"],
+  "rpc": ["https://mainapi.bchscan.io", "https://datahub-asia02.bchscan.io/"],
   "faucets": [],
   "infoURL": "https://www.versatizecoin.com/"
 }, {
@@ -11565,7 +11604,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["http://mainnet.l2.ethstorage.io:9540"],
+  "rpc": ["https://rpc.mainnet.l2.ethstorage.io:9540"],
   "faucets": [],
   "infoURL": "https://ethstorage.io/"
 }, {
@@ -11578,7 +11617,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["http://testnet.ethstorage.io:9540"],
+  "rpc": ["https://rpc.testnet.ethstorage.io:9546"],
   "faucets": [],
   "infoURL": "https://ethstorage.io/"
 }, {
@@ -11617,7 +11656,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["http://testnet.l2.ethstorage.io:9540"],
+  "rpc": ["https://rpc.testnet.l2.ethstorage.io:9540"],
   "faucets": [],
   "infoURL": "https://ethstorage.io/"
 }, {
@@ -11630,7 +11669,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["http://devnet.ethstorage.io:9540"],
+  "rpc": ["https://rpc.devnet.ethstorage.io:9540"],
   "faucets": [],
   "infoURL": "https://ethstorage.io/"
 }, {
@@ -11647,16 +11686,16 @@
   "faucets": [],
   "infoURL": "https://www.peaq.xyz"
 }, {
-  "name": "EthStorage Mainnet",
+  "name": "EthStorage L2 Devnet",
   "chainId": 3339,
-  "shortName": "es-m",
+  "shortName": "esl2-d",
   "networkId": 3339,
   "nativeCurrency": {
     "name": "Ether",
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["http://mainnet.ethstorage.io:9540"],
+  "rpc": ["https://rpc.devnet.l2.ethstorage.io:9540"],
   "faucets": [],
   "infoURL": "https://ethstorage.io/"
 }, {
@@ -19980,6 +20019,19 @@
   "faucets": [],
   "infoURL": "https://canxium.org"
 }, {
+  "name": "Ethiq",
+  "chainId": 30303,
+  "shortName": "ethiq",
+  "networkId": 30303,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.ethiq.network", "wss://rpc.ethiq.network"],
+  "faucets": [],
+  "infoURL": "https://www.ethiq.network"
+}, {
   "name": "Movement EVM Legacy",
   "chainId": 30730,
   "shortName": "moveleg",
@@ -23503,6 +23555,19 @@
   "faucets": [],
   "infoURL": "https://esculap.us"
 }, {
+  "name": "Katron AI Mainnet",
+  "chainId": 83592,
+  "shortName": "ktn",
+  "networkId": 83592,
+  "nativeCurrency": {
+    "name": "Katron AI",
+    "symbol": "KTN",
+    "decimals": 18
+  },
+  "rpc": ["https://blockchain-rpc1.katronai.com", "https://blockchain-rpc2.katronai.com"],
+  "faucets": [],
+  "infoURL": "https://network.katronai.com"
+}, {
   "name": "Xprotocol Sepolia",
   "chainId": 83868,
   "shortName": "xprotocolsepolia",
@@ -25010,6 +25075,19 @@
   "rpc": ["https://rpc.fushuma.com"],
   "faucets": [],
   "infoURL": ""
+}, {
+  "name": "Ethernova Mainnet",
+  "chainId": 121525,
+  "shortName": "ethnova",
+  "networkId": 121525,
+  "nativeCurrency": {
+    "name": "Ethernova",
+    "symbol": "NOVA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.ethnova.net"],
+  "faucets": [],
+  "infoURL": "https://ethnova.net"
 }, {
   "name": "Gemchain",
   "chainId": 123321,
@@ -28040,6 +28118,19 @@
   "faucets": [],
   "infoURL": "https://curvescan.io"
 }, {
+  "name": "HyperCluster",
+  "chainId": 838838,
+  "shortName": "HYPEC",
+  "networkId": 838838,
+  "nativeCurrency": {
+    "name": "HyperCluster Token",
+    "symbol": "HYPEC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.hypercluster.org"],
+  "faucets": ["https://faucet.hypercluster.org"],
+  "infoURL": "https://www.hypercluster.org/"
+}, {
   "name": "PRM Testnet",
   "chainId": 839320,
   "shortName": "prmtest",
@@ -28091,6 +28182,19 @@
   "rpc": ["https://chain.deptofgood.com"],
   "faucets": [],
   "infoURL": "https://bloqs4good.com"
+}, {
+  "name": "Testethiq",
+  "chainId": 853211,
+  "shortName": "testethiq",
+  "networkId": 853211,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.ethiq.network", "wss://rpc.testnet.ethiq.network"],
+  "faucets": [],
+  "infoURL": "https://www.ethiq.network"
 }, {
   "name": "Dodao",
   "chainId": 855456,
@@ -28286,6 +28390,19 @@
   "rpc": ["https://host-76-74-28-226.contentfabric.io/eth/", "https://host-76-74-28-232.contentfabric.io/eth/", "https://host-76-74-29-2.contentfabric.io/eth/", "https://host-76-74-29-8.contentfabric.io/eth/", "https://host-76-74-29-34.contentfabric.io/eth/", "https://host-76-74-29-35.contentfabric.io/eth/", "https://host-154-14-211-98.contentfabric.io/eth/", "https://host-154-14-192-66.contentfabric.io/eth/", "https://host-60-240-133-202.contentfabric.io/eth/", "https://host-64-235-250-98.contentfabric.io/eth/"],
   "faucets": [],
   "infoURL": "https://eluv.io"
+}, {
+  "name": "AVI Coin",
+  "chainId": 963369,
+  "shortName": "avi",
+  "networkId": 963369,
+  "nativeCurrency": {
+    "name": "AVI Coin",
+    "symbol": "AVI",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.avicoin.org"],
+  "faucets": [],
+  "infoURL": "https://www.avicoin.org"
 }, {
   "name": "Treasure Ruby",
   "chainId": 978657,
@@ -30483,6 +30600,19 @@
   "rpc": ["https://rpc.teamblockchain.team"],
   "faucets": [],
   "infoURL": "https://teamblockchain.team"
+}, {
+  "name": "Krown Testnet",
+  "chainId": 89127398,
+  "shortName": "krown-testnet",
+  "networkId": 89127398,
+  "nativeCurrency": {
+    "name": "KROWN",
+    "symbol": "KROWN",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet.krown.network", "https://testnet1.krown.network"],
+  "faucets": ["https://faucet.krown.network"],
+  "infoURL": "https://krown.network"
 }, {
   "name": "Reya Cronos",
   "chainId": 89346162,
