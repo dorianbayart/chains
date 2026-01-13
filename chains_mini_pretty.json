@@ -4237,6 +4237,19 @@
   "faucets": [],
   "infoURL": "https://gesoten.com/"
 }, {
+  "name": "NutriEmp Chain",
+  "chainId": 432,
+  "shortName": "nutriemp",
+  "networkId": 432,
+  "nativeCurrency": {
+    "name": "GRAMZ",
+    "symbol": "GRAMZ",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.nutriemp-chain.link", "https://rpc.nutriemp.com"],
+  "faucets": [],
+  "infoURL": "https://nutriemp.com"
+}, {
   "name": "Boyaa Mainnet",
   "chainId": 434,
   "shortName": "BYC",
@@ -10863,8 +10876,21 @@
     "symbol": "FRAX",
     "decimals": 18
   },
-  "rpc": ["https://rpc.testnet.frax.com", "https://fraxtal-holesky-rpc.publicnode.com", "wss://fraxtal-holesky-rpc.publicnode.com"],
+  "rpc": [],
   "faucets": [],
+  "infoURL": "https://testnet.frax.com"
+}, {
+  "name": "Fraxtal Hoodi Testnet",
+  "chainId": 2523,
+  "shortName": "fraxtal-hoodi-testnet",
+  "networkId": 2523,
+  "nativeCurrency": {
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.frax.com"],
+  "faucets": ["https://faucet.testnet.frax.com/"],
   "infoURL": "https://testnet.frax.com"
 }, {
   "name": "inEVM Mainnet",
@@ -20109,6 +20135,19 @@
   "rpc": ["https://mevm.testnet.imola.movementlabs.xyz"],
   "faucets": [],
   "infoURL": "https://movementlabs.xyz"
+}, {
+  "name": "Dilithium3 Testnet",
+  "chainId": 30939,
+  "shortName": "dlt-testnet",
+  "networkId": 30939,
+  "nativeCurrency": {
+    "name": "Dilithium3",
+    "symbol": "DLT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet.dilithium3.com", "wss://rpc-testnet.dilithium3.com/ws"],
+  "faucets": ["https://faucet-testnet.dilithium3.com"],
+  "infoURL": "https://dilithium3.com"
 }, {
   "name": "Ethersocial Network",
   "chainId": 31102,
