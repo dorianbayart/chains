@@ -12544,6 +12544,19 @@
   "faucets": ["https://faucet.tipboxcoin.net"],
   "infoURL": "https://tipboxcoin.net"
 }, {
+  "name": "RISE",
+  "chainId": 4153,
+  "shortName": "rise",
+  "networkId": 4153,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.risechain.com/", "wss://rpc.risechain.com/ws"],
+  "faucets": [],
+  "infoURL": "https://risechain.com"
+}, {
   "name": "CrossFi Testnet",
   "chainId": 4157,
   "shortName": "crossfi-testnet",
@@ -20184,7 +20197,7 @@
     "symbol": "DLT",
     "decimals": 18
   },
-  "rpc": ["https://rpc-testnet.dilithium3.com", "wss://rpc-testnet.dilithium3.com/ws"],
+  "rpc": ["https://rpc-testnet.dilithium3.com", "wss://ws-testnet.dilithium3.com"],
   "faucets": ["https://faucet-testnet.dilithium3.com"],
   "infoURL": "https://dilithium3.com"
 }, {
@@ -29041,6 +29054,19 @@
   "faucets": [],
   "infoURL": "https://coti.io/"
 }, {
+  "name": "Horizen Testnet",
+  "chainId": 2651420,
+  "shortName": "horizen-testnet",
+  "networkId": 2651420,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://horizen-testnet.rpc.caldera.xyz/http"],
+  "faucets": [],
+  "infoURL": "https://horizen-testnet.hub.caldera.xyz"
+}, {
   "name": "Xterio Chain (ETH)",
   "chainId": 2702128,
   "shortName": "xterio",
@@ -29806,7 +29832,7 @@
   },
   "rpc": ["https://testnet.riselabs.xyz", "wss://testnet.riselabs.xyz/ws"],
   "faucets": ["https://faucet.testnet.riselabs.xyz"],
-  "infoURL": "https://www.riselabs.xyz/"
+  "infoURL": "https://risechain.com/"
 }, {
   "name": "R0AR Testnet",
   "chainId": 11166111,
