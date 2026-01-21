@@ -8562,8 +8562,8 @@
     "symbol": "tZEN",
     "decimals": 18
   },
-  "rpc": ["https://gobi-rpc.horizenlabs.io/ethv1", "https://rpc.ankr.com/horizen_gobi_testnet"],
-  "faucets": ["https://faucet.horizen.io"],
+  "rpc": [],
+  "faucets": [],
   "infoURL": "https://horizen.io/"
 }, {
   "name": "Mint Testnet",
@@ -10313,8 +10313,8 @@
   "shortName": "stable-testnet",
   "networkId": 2201,
   "nativeCurrency": {
-    "name": "gUSDT",
-    "symbol": "gUSDT",
+    "name": "USDT0",
+    "symbol": "USDT0",
     "decimals": 18
   },
   "rpc": ["https://rpc.testnet.stable.xyz"],
@@ -14789,7 +14789,7 @@
     "symbol": "ZEN",
     "decimals": 18
   },
-  "rpc": ["https://eon-rpc.horizenlabs.io/ethv1", "https://rpc.ankr.com/horizen_eon"],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://horizen.io/"
 }, {
