@@ -5000,7 +5000,7 @@
     "symbol": "KALIS",
     "decimals": 18
   },
-  "rpc": ["https://rpc.kalichain.com"],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://kalichain.com"
 }, {
@@ -5013,7 +5013,7 @@
     "symbol": "KALIS",
     "decimals": 18
   },
-  "rpc": ["https://mainnet.kalichain.com"],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://kalichain.com"
 }, {
@@ -9450,6 +9450,19 @@
   "faucets": [],
   "infoURL": "https://onuschain.io"
 }, {
+  "name": "CratD2C Testnet",
+  "chainId": 1979,
+  "shortName": "cratd2c-testnet",
+  "networkId": 1979,
+  "nativeCurrency": {
+    "name": "CRATD2C",
+    "symbol": "CRAT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet-1.cratd2csmartchain.io/", "https://rpc-testnet-2.cratd2csmartchain.io/", "https://rpc-testnet-3.cratd2csmartchain.io/"],
+  "faucets": [],
+  "infoURL": "https://cratd2csmartchain.io"
+}, {
   "name": "Krown Mainnet",
   "chainId": 1983,
   "shortName": "krown",
@@ -11659,6 +11672,19 @@
   "rpc": ["https://rpctestnet.arabianchain.org"],
   "faucets": ["https://faucet.arabianchain.org/"],
   "infoURL": "https://arabianchain.org"
+}, {
+  "name": "Irys Mainnet Beta",
+  "chainId": 3282,
+  "shortName": "irys-mainnet-beta",
+  "networkId": 3282,
+  "nativeCurrency": {
+    "name": "Irys",
+    "symbol": "IRYS",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-beta-rpc.irys.xyz/v1/execution-rpc"],
+  "faucets": [],
+  "infoURL": "https://irys.xyz"
 }, {
   "name": "Realio Testnet",
   "chainId": 3300,
@@ -22749,9 +22775,9 @@
   "faucets": [],
   "infoURL": "https://kuma.bid"
 }, {
-  "name": "CratD2C Testnet",
+  "name": "CratD2C Testnet Deprecated",
   "chainId": 65349,
-  "shortName": "cratd2c-testnet",
+  "shortName": "cratd2c-testnet-deprecated",
   "networkId": 65349,
   "nativeCurrency": {
     "name": "CRATD2C",
