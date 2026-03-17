@@ -1724,9 +1724,9 @@
     "symbol": "HSK",
     "decimals": 18
   },
-  "rpc": ["https://hashkeychain-testnet.alt.technology"],
+  "rpc": ["https://testnet.hsk.xyz"],
   "faucets": [],
-  "infoURL": "https://hashkey.cloud"
+  "infoURL": "https://hashkeychain.net"
 }, {
   "name": "iExec Sidechain",
   "chainId": 134,
@@ -7981,6 +7981,19 @@
   "faucets": ["https://faucet.elysiumchain.tech"],
   "infoURL": "https://elysiumchain.tech/"
 }, {
+  "name": "BIE",
+  "chainId": 1342,
+  "shortName": "bie",
+  "networkId": 1342,
+  "nativeCurrency": {
+    "name": "BIE",
+    "symbol": "BIE",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.bie.ai", "https://api.bie.ai"],
+  "faucets": ["https://app.bie.ai/faucet"],
+  "infoURL": "https://bie.ai"
+}, {
   "name": "Blitz Subnet",
   "chainId": 1343,
   "shortName": "blitz",
@@ -10060,6 +10073,19 @@
   "rpc": ["https://msc-rpc.movoscan.com", "https://msc-rpc.movochain.org", "https://msc-rpc.movoswap.com"],
   "faucets": [],
   "infoURL": "https://movo.uk"
+}, {
+  "name": "MFX Network",
+  "chainId": 2064,
+  "shortName": "mfx",
+  "networkId": 2064,
+  "nativeCurrency": {
+    "name": "MFX",
+    "symbol": "MFX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.mfx.network/rpc"],
+  "faucets": [],
+  "infoURL": "https://docs.mfx.network/integration.html"
 }, {
   "name": "Metacces Mainnet",
   "chainId": 2071,
@@ -15793,6 +15819,32 @@
   "rpc": ["https://rpc.blocktonscan.com/"],
   "faucets": ["https://faucet.blocktonscan.com/"],
   "infoURL": "https://blocktoncoin.com"
+}, {
+  "name": "StableNet Mainnet",
+  "chainId": 8282,
+  "shortName": "stablenet",
+  "networkId": 8282,
+  "nativeCurrency": {
+    "name": "WKRC",
+    "symbol": "WKRC",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://stablenet.network"
+}, {
+  "name": "StableNet Testnet",
+  "chainId": 8283,
+  "shortName": "stablenet-testnet",
+  "networkId": 8283,
+  "nativeCurrency": {
+    "name": "WKRC",
+    "symbol": "WKRC",
+    "decimals": 18
+  },
+  "rpc": ["https://api.test.stablenet.network", "wss://ws.test.stablenet.network"],
+  "faucets": ["https://faucet.stablenet.network"],
+  "infoURL": "https://stablenet.network"
 }, {
   "name": "KorthoTest",
   "chainId": 8285,
@@ -26739,6 +26791,19 @@
   "rpc": ["https://rpctest.egonscan.com"],
   "faucets": ["https://faucet.egonscan.com"],
   "infoURL": "https://egonscan.com"
+}, {
+  "name": "Datachain Rope",
+  "chainId": 271828,
+  "shortName": "datachain",
+  "networkId": 271828,
+  "nativeCurrency": {
+    "name": "DC FAT",
+    "symbol": "FAT",
+    "decimals": 18
+  },
+  "rpc": ["https://erpc.datachain.network", "wss://ws.datachain.network", "https://erpc.rope.network", "wss://ws.rope.network"],
+  "faucets": ["https://faucet.datachain.network"],
+  "infoURL": "https://datachain.network"
 }, {
   "name": "Nxy Area 51",
   "chainId": 272247,

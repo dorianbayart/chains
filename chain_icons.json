@@ -47,6 +47,14 @@
     "format": "png"
   }]
 }, {
+  "name": "datachain",
+  "icons": [{
+    "url": "ipfs://bafybeibfkitcey5cpevavib36dv2rxefszbpcxdibyjupizprhuadblccy",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "qchain",
   "icons": [{
     "url": "ipfs://QmZESsg3P8cimYjibkD8w1T8DgszAHcKn7UReC8FWbfDGz",
@@ -2373,6 +2381,14 @@
     "width": 512,
     "height": 512,
     "format": "svg"
+  }]
+}, {
+  "name": "bie",
+  "icons": [{
+    "url": "ipfs://bafkreieqvjhjcwwz3m4r6hbiphst5zodbtou45gwkqlhh7uoh3vl5tkfem",
+    "width": 512,
+    "height": 512,
+    "format": "png"
   }]
 }, {
   "name": "kaspaclassic",
@@ -7442,6 +7458,14 @@
     "url": "ipfs://bafkreihq3b3cqbg2ttlp4dfbgmirrwdw6bbpmmbr5wolddd2izbyqay4xq",
     "width": 480,
     "height": 480,
+    "format": "png"
+  }]
+}, {
+  "name": "mfx",
+  "icons": [{
+    "url": "ipfs://QmYtUimyqHkkFxYdbXXRbUqNg2VLPUg6Uu2C2nmFW81ZMxj",
+    "width": 551,
+    "height": 540,
     "format": "png"
   }]
 }, {
