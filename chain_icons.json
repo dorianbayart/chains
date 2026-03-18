@@ -3121,9 +3121,9 @@
 }, {
   "name": "dilithium3",
   "icons": [{
-    "url": "ipfs://QmUaxaAaK6Y1QVtd7vEpXCoVXqNgPhKkgVJiVt6caw3Edj",
-    "width": 500,
-    "height": 500,
+    "url": "ipfs://QmRWav2UtqKXi4kCL2qC69SKxFbzhLQ75iwbbCcPDPxooC",
+    "width": 432,
+    "height": 432,
     "format": "png"
   }]
 }, {
@@ -8610,6 +8610,14 @@
     "url": "ipfs://bafkreiczmtj47hwgmmtsy3xylhswu4q6rphpt42hznv37shjiaxsx3uqde",
     "width": 128,
     "height": 128,
+    "format": "png"
+  }]
+}, {
+  "name": "Cypherium",
+  "icons": [{
+    "url": "ipfs://bafkreiavnkwk6w3nwtu2c4cgbj5etjy27b7mbvycqgftyyhff2jzxh47ne",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
