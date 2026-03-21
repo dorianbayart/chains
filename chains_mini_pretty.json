@@ -1776,7 +1776,7 @@
     "symbol": "POL",
     "decimals": 18
   },
-  "rpc": ["https://polygon-rpc.com/", "https://rpc-mainnet.matic.network", "https://matic-mainnet.chainstacklabs.com", "https://rpc-mainnet.maticvigil.com", "https://rpc-mainnet.matic.quiknode.pro", "https://matic-mainnet-full-rpc.bwarelabs.com", "https://polygon-bor-rpc.publicnode.com", "wss://polygon-bor-rpc.publicnode.com", "https://polygon.gateway.tenderly.co", "wss://polygon.gateway.tenderly.co", "https://polygon.drpc.org", "wss://polygon.drpc.org"],
+  "rpc": ["https://polygon.drpc.org", "wss://polygon.drpc.org", "https://rpc-mainnet.matic.quiknode.pro", "https://polygon-bor-rpc.publicnode.com", "wss://polygon-bor-rpc.publicnode.com", "https://polygon.gateway.tenderly.co", "wss://polygon.gateway.tenderly.co"],
   "faucets": [],
   "infoURL": "https://polygon.technology/"
 }, {
@@ -12338,16 +12338,16 @@
 }, {
   "name": "DOS Testnet",
   "chainId": 3939,
-  "shortName": "dost",
+  "shortName": "dos-test",
   "networkId": 3939,
   "nativeCurrency": {
     "name": "DOS",
     "symbol": "DOS",
     "decimals": 18
   },
-  "rpc": ["https://test.doschain.com/"],
+  "rpc": ["https://test.doschain.com"],
   "faucets": [],
-  "infoURL": "http://doschain.io/"
+  "infoURL": "https://doschain.com"
 }, {
   "name": "DYNO Mainnet",
   "chainId": 3966,
@@ -15428,7 +15428,7 @@
   },
   "rpc": ["https://main.doschain.com"],
   "faucets": [],
-  "infoURL": "https://doschain.io"
+  "infoURL": "https://doschain.com"
 }, {
   "name": "Teleport",
   "chainId": 8000,
@@ -23603,7 +23603,7 @@
     "symbol": "POL",
     "decimals": 18
   },
-  "rpc": ["https://rpc-amoy.polygon.technology", "https://polygon-amoy-bor-rpc.publicnode.com", "wss://polygon-amoy-bor-rpc.publicnode.com"],
+  "rpc": ["https://rpc-amoy.polygon.technology", "https://polygon-amoy-bor-rpc.publicnode.com", "wss://polygon-amoy-bor-rpc.publicnode.com", "https://polygon-amoy.drpc.org"],
   "faucets": ["https://faucet.polygon.technology/"],
   "infoURL": "https://polygon.technology/"
 }, {
@@ -28075,7 +28075,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://gensyn-mainnet.g.alchemy.com/public"],
   "faucets": [],
   "infoURL": "https://www.gensyn.ai/"
 }, {
@@ -30223,6 +30223,19 @@
   "rpc": [],
   "faucets": [],
   "infoURL": ""
+}, {
+  "name": "ONFA Chain Mainnet",
+  "chainId": 12082025,
+  "shortName": "onfachain",
+  "networkId": 12082025,
+  "nativeCurrency": {
+    "name": "ONFA Coin",
+    "symbol": "OFC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.onfachain.com", "https://rpc.onfachain.net", "wss://ws.onfachain.com", "wss://ws.onfachain.net"],
+  "faucets": [],
+  "infoURL": "https://onfachain.com"
 }, {
   "name": "NeoX Testnet T3",
   "chainId": 12227331,

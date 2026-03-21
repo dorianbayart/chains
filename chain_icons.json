@@ -2599,6 +2599,14 @@
     "format": "png"
   }]
 }, {
+  "name": "doscan",
+  "icons": [{
+    "url": "ipfs://bafkreigebmjtun75zmpgtywve6za5bobpxwtw7k7qme7iauod7bumq7ply",
+    "width": 1805,
+    "height": 1805,
+    "format": "svg"
+  }]
+}, {
   "name": "hal",
   "icons": [{
     "url": "ipfs://QmWAa7JayD8HCtAMXezzUNcUoi2Rikqpu2WmrHpFBmDEez",
@@ -4639,10 +4647,10 @@
 }, {
   "name": "apexfusion",
   "icons": [{
-    "url": "ipfs://QmSnqLVwFyeX9AZDvBKVS7diDf2Xb7m9nDcamGgpCMhL3d",
-    "width": 410,
-    "height": 410,
-    "format": "svg"
+    "url": "ipfs://QmNwCGNY4M1pxoNJ8j2f71sm4Z1Gbtre1vnhq3r2PmHw8B",
+    "width": 800,
+    "height": 800,
+    "format": "png"
   }]
 }, {
   "name": "aleph",
@@ -6695,10 +6703,10 @@
 }, {
   "name": "onfachain",
   "icons": [{
-    "url": "ipfs://bafkreifsbv53qf674fmv2yhn7c426yv3dsge37hhhzvtcrrbx56ya762dy",
-    "width": 496,
-    "height": 496,
-    "format": "png"
+    "url": "ipfs://bafkreifla5iikxizhv6vs6yfugnqvssqfqbtlc3lgvylapkasw4sw377uq",
+    "height": 256,
+    "width": 256,
+    "format": "svg"
   }]
 }, {
   "name": "SaitaBlockChain(SBC)",
