@@ -5927,6 +5927,19 @@
   "faucets": [],
   "infoURL": "https://www.wanscan.org"
 }, {
+  "name": "Capital Exchange",
+  "chainId": 890,
+  "shortName": "CXM",
+  "networkId": 890,
+  "nativeCurrency": {
+    "name": "Capital Exchange",
+    "symbol": "CXM",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.capitalexchange.net", "https://rpc.capitalexchangecrypto.com"],
+  "faucets": [],
+  "infoURL": "https://www.capitalexchange.markets"
+}, {
   "name": "MAXI Chain Testnet",
   "chainId": 898,
   "shortName": "maxi-testnet",
@@ -24127,6 +24140,19 @@
   "faucets": [],
   "infoURL": "https://www.cyclenetwork.io/"
 }, {
+  "name": "PropTech Mainnet",
+  "chainId": 88788,
+  "shortName": "ptek",
+  "networkId": 88788,
+  "nativeCurrency": {
+    "name": "PropTech Token",
+    "symbol": "PTEK",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.ptekcoin.com"],
+  "faucets": [],
+  "infoURL": "https://ptek.ai"
+}, {
   "name": "ZKasino Mainnet",
   "chainId": 88800,
   "shortName": "ZKasino",
@@ -24750,6 +24776,32 @@
   "rpc": ["https://testnet-rpc.eliberty.ngo"],
   "faucets": ["https://faucet.eliberty.ngo"],
   "infoURL": "https://eliberty.ngo"
+}, {
+  "name": "Dorsen Chain",
+  "chainId": 99110,
+  "shortName": "dorsen-test",
+  "networkId": 99110,
+  "nativeCurrency": {
+    "name": "Dorsen Chain",
+    "symbol": "DC",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc.dorsenscan.io"],
+  "faucets": [],
+  "infoURL": "https://docs.dorsenscan.io"
+}, {
+  "name": "Dorsen Testnet",
+  "chainId": 99119,
+  "shortName": "dorsen-main",
+  "networkId": 99119,
+  "nativeCurrency": {
+    "name": "Dorsen Chain",
+    "symbol": "tDC",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.dorsenscan.io"],
+  "faucets": ["https://faucet.dorsenscan.io"],
+  "infoURL": "https://docs.dorsenscan.io"
 }, {
   "name": "Edge Matrix Chain Testnet",
   "chainId": 99876,
@@ -25660,6 +25712,19 @@
   "rpc": ["https://node.dioneprotocol.com/ext/bc/D/rpc"],
   "faucets": [],
   "infoURL": "https://www.dioneprotocol.com"
+}, {
+  "name": "Orqus Testnet",
+  "chainId": 153871,
+  "shortName": "orqus-testnet",
+  "networkId": 153871,
+  "nativeCurrency": {
+    "name": "No native currency",
+    "symbol": "USD",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-test.orqus.io"],
+  "faucets": [],
+  "infoURL": "https://orqus.io"
 }, {
   "name": "CryptoX",
   "chainId": 158245,
