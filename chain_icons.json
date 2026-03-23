@@ -6757,6 +6757,14 @@
     "format": "png"
   }]
 }, {
+  "name": "satuchain",
+  "icons": [{
+    "url": "ipfs://QmSQdnftaq16siHNV5zAUGNrKknMKpwrZCMDwdE2B8CESt",
+    "width": 192,
+    "height": 192,
+    "format": "png"
+  }]
+}, {
   "name": "alphabetnetwork",
   "icons": [{
     "url": "ipfs://QmfTeudwVJcu7jzySBcpD9H5ZVK66nPJKRnicxend1bxfq",
@@ -7555,6 +7563,14 @@
     "width": 1280,
     "height": 1280,
     "format": "png"
+  }]
+}, {
+  "name": "eden",
+  "icons": [{
+    "url": "ipfs://QmYLEio4bAGi4W8pwLbUcXYJC5ui5gs1ePzJCziEniypyp",
+    "width": 2000,
+    "height": 2000,
+    "format": "svg"
   }]
 }, {
   "name": "co2e",
