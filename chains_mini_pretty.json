@@ -5355,6 +5355,19 @@
   "faucets": [],
   "infoURL": "https://lycanchain.com"
 }, {
+  "name": "Bitasset Chain Mainnet",
+  "chainId": 723,
+  "shortName": "bac",
+  "networkId": 723,
+  "nativeCurrency": {
+    "name": "Bitasset Chain Native Token",
+    "symbol": "BAC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.bitassetchain.io"],
+  "faucets": [],
+  "infoURL": "https://bitassetchain.io"
+}, {
   "name": "Blucrates",
   "chainId": 727,
   "shortName": "blu",
@@ -22307,6 +22320,32 @@
   "faucets": [],
   "infoURL": "https://superposition.so"
 }, {
+  "name": "DUST Testnet",
+  "chainId": 55377,
+  "shortName": "dust-testnet",
+  "networkId": 55377,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.dustproject.org", "wss://rpc.testnet.dustproject.org"],
+  "faucets": [],
+  "infoURL": "https://dustproject.org"
+}, {
+  "name": "DUST Mainnet",
+  "chainId": 55378,
+  "shortName": "dust-mainnet",
+  "networkId": 55378,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.dustproject.org", "wss://rpc.dustproject.org"],
+  "faucets": [],
+  "infoURL": "https://dustproject.org"
+}, {
   "name": "Photon Aurora Testnet",
   "chainId": 55551,
   "shortName": "pton",
@@ -23047,6 +23086,19 @@
   "rpc": ["https://rpc.creatorchain.io"],
   "faucets": [],
   "infoURL": "https://docs.creatorchain.io/"
+}, {
+  "name": "Bitasset Chain Testnet Ploutos",
+  "chainId": 66666,
+  "shortName": "bac-ploutos",
+  "networkId": 66666,
+  "nativeCurrency": {
+    "name": "Bitasset Chain Native Token",
+    "symbol": "BAC",
+    "decimals": 18
+  },
+  "rpc": ["https://ploutos-rpc.bitassetchain.io"],
+  "faucets": [],
+  "infoURL": "https://bitassetchain.io"
 }, {
   "name": "Janus Testnet",
   "chainId": 66988,
@@ -31263,6 +31315,19 @@
   "rpc": ["https://rpc.reya-cronos.gelato.digital", "wss://ws.reya-cronos.gelato.digital"],
   "faucets": [],
   "infoURL": "https://raas.gelato.network/rollups/details/public/reya-cronos"
+}, {
+  "name": "MST Testnet",
+  "chainId": 91562037,
+  "shortName": "mst-testnet",
+  "networkId": 91562037,
+  "nativeCurrency": {
+    "name": "MST Native Coin",
+    "symbol": "tMSTC",
+    "decimals": 18
+  },
+  "rpc": ["https://testnetrpc.mstblockchain.com", "wss://testnetrpc.mstblockchain.com"],
+  "faucets": ["https://faucet.mstblockchain.com"],
+  "infoURL": "https://mstblockchain.com"
 }, {
   "name": "Polygon Blackberry",
   "chainId": 94204209,
