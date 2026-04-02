@@ -6568,6 +6568,14 @@
     "format": "png"
   }]
 }, {
+  "name": "stoc",
+  "icons": [{
+    "url": "ipfs://QmYtRbecDtw3z4bCdW2xeTp2XEze8sm3jhQUgxvgRijabb",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "dojima",
   "icons": [{
     "url": "ipfs://QmarhJVEb6jVNfW1GP2rcvAfto6DFdr7RSauZQxjd3iFam",
@@ -7315,6 +7323,14 @@
     "width": 489,
     "height": 489,
     "format": "png"
+  }]
+}, {
+  "name": "clawcoin",
+  "icons": [{
+    "url": "ipfs://QmTuFGvQqA3iDMGsr54VLHscAQzGA54u5DjhF9LqBS88Kn",
+    "width": 1417,
+    "height": 1417,
+    "format": "svg"
   }]
 }, {
   "name": "bnbchain",
