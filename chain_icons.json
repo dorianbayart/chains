@@ -575,6 +575,14 @@
     "format": "png"
   }]
 }, {
+  "name": "mirasmanda",
+  "icons": [{
+    "url": "ipfs://bafkreihbkqfdxl6eittsh6iaianjfwv4h424ttugyygr5mqe43t7r33mcm",
+    "width": 256,
+    "height": 256,
+    "format": "svg"
+  }]
+}, {
   "name": "astrasepolia",
   "icons": [{
     "url": "ipfs://QmQW8DuuyxjdLWAPq3V9zSfdAimaStptZ4gxZ3aEviAafc",
@@ -1485,6 +1493,14 @@
     "url": "ipfs://QmYddHh5zdceSsBU7uGfQvEHg6UUtAFbzQBBaePS4whx7o",
     "width": 225,
     "height": 225,
+    "format": "png"
+  }]
+}, {
+  "name": "trustbitcoin",
+  "icons": [{
+    "url": "ipfs://bafybeifkxfdmobbohipm6vviyhq5isvfxgk3pypdgfbl4wdceeraz7t33y",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -3134,6 +3150,14 @@
     "width": 128,
     "height": 128,
     "format": "png"
+  }]
+}, {
+  "name": "xenea",
+  "icons": [{
+    "url": "ipfs://bafkreic57mgyash2ydeim3erdf7xjrvajsrmelofbpkfvbo46cp7nlryxq",
+    "width": 400,
+    "height": 400,
+    "format": "jpg"
   }]
 }, {
   "name": "SaitaBlockChain(SBC)",

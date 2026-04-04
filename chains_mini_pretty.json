@@ -4328,18 +4328,18 @@
   "faucets": [],
   "infoURL": "https://areon.network"
 }, {
-  "name": "Areon Network Mainnet",
+  "name": "Areum Network Mainnet",
   "chainId": 463,
   "shortName": "area",
   "networkId": 463,
   "nativeCurrency": {
-    "name": "Areon",
+    "name": "Areum",
     "symbol": "AREA",
     "decimals": 18
   },
-  "rpc": ["https://mainnet-rpc.areon.network", "https://mainnet-rpc2.areon.network", "https://mainnet-rpc3.areon.network", "https://mainnet-rpc4.areon.network", "https://mainnet-rpc5.areon.network"],
+  "rpc": ["https://mainnet-rpc.areum.network", "https://mainnet-rpc2.areum.network", "https://mainnet-rpc3.areum.network", "https://mainnet-rpc4.areum.network", "https://mainnet-rpc5.areum.network"],
   "faucets": [],
-  "infoURL": "https://areon.network"
+  "infoURL": "https://areum.network"
 }, {
   "name": "AppChain",
   "chainId": 466,
@@ -6953,6 +6953,19 @@
   "rpc": ["https://jsonrpc.humans.nodestake.top", "https://humans-mainnet-evm.itrocket.net", "https://humans-evm-rpc.staketab.org:443", "https://evm.humans.stakepool.dev.br", "https://mainnet-humans-evm.konsortech.xyz", "https://evm-rpc.mainnet.humans.zone", "https://json-rpc.humans.bh.rocks", "https://evm-rpc.humans.huginn.tech"],
   "faucets": [],
   "infoURL": "https://humans.ai"
+}, {
+  "name": "Xenea Ubusuna",
+  "chainId": 1096,
+  "shortName": "Xenea",
+  "networkId": 1096,
+  "nativeCurrency": {
+    "name": "Xenea Ubusuna Testnet Token",
+    "symbol": "TXENE",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-ubusuna.xeneascan.com"],
+  "faucets": [],
+  "infoURL": "https://xenea.io"
 }, {
   "name": "MOAC mainnet",
   "chainId": 1099,
@@ -17743,6 +17756,19 @@
   "rpc": ["https://testnetrpc.num.network"],
   "faucets": ["https://faucet.avax.network/?subnet=num", "https://faucet.num.network"],
   "infoURL": "https://numbersprotocol.io"
+}, {
+  "name": "TrustBitcoin Mainnet",
+  "chainId": 10791,
+  "shortName": "trustbtc",
+  "networkId": 10791,
+  "nativeCurrency": {
+    "name": "TrustBitcoin",
+    "symbol": "TBC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.trustbitcoin.io"],
+  "faucets": [],
+  "infoURL": "https://trustbitcoin.io"
 }, {
   "name": "CryptoCoinPay",
   "chainId": 10823,
@@ -32277,6 +32303,19 @@
   "rpc": ["https://skale-base.skalenodes.com/v1/base", "wss://skale-base.skalenodes.com/v1/ws/base"],
   "faucets": ["http://base-sepolia-faucet.skale.space"],
   "infoURL": "https://docs.skale.space/welcome/skale-on-base"
+}, {
+  "name": "Mirasmanda",
+  "chainId": 1213549903,
+  "shortName": "mirasmanda",
+  "networkId": 1213549903,
+  "nativeCurrency": {
+    "name": "Gas",
+    "symbol": "GAS",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.evm.mirasmanda.uz"],
+  "faucets": ["https://faucet.evm.mirasmanda.uz"],
+  "infoURL": "https://asterium.uz/"
 }, {
   "name": "HUMAN Protocol",
   "chainId": 1273227453,
