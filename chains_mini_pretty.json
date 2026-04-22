@@ -15508,6 +15508,19 @@
   "faucets": [],
   "infoURL": "https://drawchain.io/"
 }, {
+  "name": "DiamondzChain",
+  "chainId": 7791,
+  "shortName": "dzx",
+  "networkId": 7791,
+  "nativeCurrency": {
+    "name": "Diamondz Shadow Game and Movies",
+    "symbol": "SDM",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-mainnet.diamondz.baby"],
+  "faucets": [],
+  "infoURL": "https://diamondzshadow.info"
+}, {
   "name": "OpenEX LONG Testnet",
   "chainId": 7798,
   "shortName": "oex",
@@ -22125,6 +22138,19 @@
   "faucets": [],
   "infoURL": "https://blessnet.io"
 }, {
+  "name": "Robinhood Chain Testnet",
+  "chainId": 46630,
+  "shortName": "rh-testnet",
+  "networkId": 46630,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.chain.robinhood.com/rpc"],
+  "faucets": [],
+  "infoURL": "https://docs.robinhood.com/chain/"
+}, {
   "name": "Fusion Testnet",
   "chainId": 46688,
   "shortName": "tfsn",
@@ -27337,6 +27363,19 @@
   "rpc": ["https://rpc-testnet.saakuru.network"],
   "faucets": [],
   "infoURL": "https://saakuru.network"
+}, {
+  "name": "StreamChain",
+  "chainId": 250611,
+  "shortName": "stc",
+  "networkId": 250611,
+  "nativeCurrency": {
+    "name": "StreamChain",
+    "symbol": "STC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.strmchain.com"],
+  "faucets": [],
+  "infoURL": "https://strmchain.com"
 }, {
   "name": "CELESTIUM Network Testnet",
   "chainId": 252525,
