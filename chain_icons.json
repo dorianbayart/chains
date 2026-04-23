@@ -15,6 +15,14 @@
     "format": "png"
   }]
 }, {
+  "name": "oxin",
+  "icons": [{
+    "url": "ipfs://bafkreibppuijktkbw75jrng6w5xbrvvh6w5ppd4msriiruibmpk25pndmi",
+    "width": 1500,
+    "height": 1500,
+    "format": "png"
+  }]
+}, {
   "name": "near",
   "icons": [{
     "url": "ipfs://bafkreiayxzdbu3e5ahri3ooieg6k6pjxrwkrkc2x5cnyadqeu5zbmaummq",
@@ -1615,6 +1623,14 @@
     "format": "png"
   }]
 }, {
+  "name": "gensyn-testnet",
+  "icons": [{
+    "url": "ipfs://QmbJeQxqoTuHTitxLhn1JEtUq82Kp8SfJaUvMtLYku6NBV",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "meld",
   "icons": [{
     "url": "ipfs://QmRhB4AbjDrhvwfSAQi2JvKirFiDWxzJvKEvG8S8AdDdED",
@@ -2017,7 +2033,7 @@
 }, {
   "name": "bac",
   "icons": [{
-    "url": "ipfs://bafkreicq4mloik6hz5ypyfjhgesrmqdzlvbnu7eitwgciq2eof64grc7da",
+    "url": "ipfs://bafkreia4ksufgnm6dnur5cnfzqrirfcqrvixgw72lzbxutsw6zqggmjbhy",
     "width": 512,
     "height": 512,
     "format": "png"
@@ -5957,6 +5973,14 @@
     "url": "ipfs://QmW3WRyuLZ95K8hvV2QN6rP5yWY98sSzWyVUxD2eUjXGrc",
     "width": 1024,
     "height": 613,
+    "format": "png"
+  }]
+}, {
+  "name": "gensyn",
+  "icons": [{
+    "url": "ipfs://QmVqxZEAxThftDE2kVL7yQrBsU5ymLV39JPdWyaYtuVgzM",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
