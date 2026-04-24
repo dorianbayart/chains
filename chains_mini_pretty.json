@@ -15261,6 +15261,19 @@
   "faucets": [],
   "infoURL": "https://rarimo.com"
 }, {
+  "name": "TokClaw Blockchain",
+  "chainId": 7447,
+  "shortName": "TokClaw",
+  "networkId": 7447,
+  "nativeCurrency": {
+    "name": "FEE",
+    "symbol": "FEE",
+    "decimals": 6
+  },
+  "rpc": ["https://rpc.tokclaw.com"],
+  "faucets": [],
+  "infoURL": "https://tokclaw.com"
+}, {
   "name": "Raba Network Mainnet",
   "chainId": 7484,
   "shortName": "raba",
@@ -23632,6 +23645,19 @@
   "rpc": ["https://proxy2.thinkiumrpc.net/"],
   "faucets": [],
   "infoURL": "https://thinkium.net/"
+}, {
+  "name": "Seven Chain",
+  "chainId": 70007,
+  "shortName": "seven",
+  "networkId": 70007,
+  "nativeCurrency": {
+    "name": "Seven",
+    "symbol": "SEVEN",
+    "decimals": 18
+  },
+  "rpc": ["https://theseven.meme/api/seven-chain/jsonrpc"],
+  "faucets": [],
+  "infoURL": "https://theseven.meme"
 }, {
   "name": "Thinkium Mainnet Chain 103",
   "chainId": 70103,

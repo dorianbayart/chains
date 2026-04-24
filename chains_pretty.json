@@ -25284,6 +25284,25 @@
   }],
   "status": "active"
 }, {
+  "name": "TokClaw Blockchain",
+  "shortName": "TokClaw",
+  "chain": "TOKCLAW",
+  "chainId": 7447,
+  "networkId": 7447,
+  "rpc": ["https://rpc.tokclaw.com"],
+  "faucets": [],
+  "infoURL": "https://tokclaw.com",
+  "nativeCurrency": {
+    "name": "FEE",
+    "symbol": "FEE",
+    "decimals": 6
+  },
+  "explorers": [{
+    "name": "TokClaw Explorer",
+    "url": "https://exp.tokclaw.com",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Raba Network Mainnet",
   "chain": "Raba",
   "icon": "raba",
@@ -39366,6 +39385,25 @@
   "explorers": [{
     "name": "thinkiumscan",
     "url": "https://chain2.thinkiumscan.net",
+    "standard": "EIP3091"
+  }]
+}, {
+  "name": "Seven Chain",
+  "chain": "SEVEN",
+  "rpc": ["https://theseven.meme/api/seven-chain/jsonrpc"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Seven",
+    "symbol": "SEVEN",
+    "decimals": 18
+  },
+  "infoURL": "https://theseven.meme",
+  "shortName": "seven",
+  "chainId": 70007,
+  "networkId": 70007,
+  "explorers": [{
+    "name": "Seven Chain Explorer",
+    "url": "https://theseven.meme/blockchain/explorer",
     "standard": "EIP3091"
   }]
 }, {
