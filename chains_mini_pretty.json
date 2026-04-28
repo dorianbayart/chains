@@ -6001,9 +6001,9 @@
     "symbol": "CXM",
     "decimals": 18
   },
-  "rpc": ["https://rpc.capitalexchange.net", "https://rpc.capitalexchangecrypto.com"],
+  "rpc": [],
   "faucets": [],
-  "infoURL": "https://www.capitalexchange.markets"
+  "infoURL": "https://www.capitalexchange.it"
 }, {
   "name": "MAXI Chain Testnet",
   "chainId": 898,
@@ -7330,6 +7330,19 @@
   "rpc": ["https://plex-rpc.plexfinance.us"],
   "faucets": [],
   "infoURL": "https://plexfinance.us/"
+}, {
+  "name": "Intuition Mainnet",
+  "chainId": 1155,
+  "shortName": "intuition",
+  "networkId": 1155,
+  "nativeCurrency": {
+    "name": "TRUST",
+    "symbol": "TRUST",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.intuition.systems"],
+  "faucets": [],
+  "infoURL": "https://intuition.systems"
 }, {
   "name": "Origin Testnet",
   "chainId": 1170,
@@ -17510,6 +17523,19 @@
   "faucets": [],
   "infoURL": "https://espento.network"
 }, {
+  "name": "JingleX L2",
+  "chainId": 9922,
+  "shortName": "jnx",
+  "networkId": 9922,
+  "nativeCurrency": {
+    "name": "JingleX",
+    "symbol": "JNX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.jinglex.net"],
+  "faucets": [],
+  "infoURL": "https://jinglex.net"
+}, {
   "name": "UXER TESTNET NETWORK",
   "chainId": 9966,
   "shortName": "uxer",
@@ -25296,6 +25322,19 @@
   "rpc": ["https://node.greenchain.app/rpc/"],
   "faucets": [],
   "infoURL": "https://www.greenchain.app"
+}, {
+  "name": "Pepe Unchained V2",
+  "chainId": 97741,
+  "shortName": "pepuv2",
+  "networkId": 97741,
+  "nativeCurrency": {
+    "name": "PEPU",
+    "symbol": "PEPU",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-pepu-v2-mainnet-0.t.conduit.xyz"],
+  "faucets": [],
+  "infoURL": "https://pepeunchained.com/"
 }, {
   "name": "MetaBenz CHAIN",
   "chainId": 97766,
